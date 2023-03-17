@@ -29,7 +29,7 @@ function App() {
 
     {/* Header */}
     <div className='uppercase font-bo
-     text-2xl text-center mb-3'>ChatGPT  2.0</div>
+     text-2xl text-center pt-10 mb-3'>ChatGPT  2.0</div>
 
     {/* body */}
     <div className='h-[90%] overflow-auto w-full max-w-4xl min-w-[20rem] px-4 py-8 self-center
